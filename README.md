@@ -3,16 +3,16 @@
 
 ![Python](https://img.shields.io/badge/-PYTHON-7c64ba??style=for-the-badge&logo=python)
 <br>
-![Djnago](https://img.shields.io/badge/-DJANGO-090909??style=for-the-badge&logo=django)
+![Djnago](https://img.shields.io/badge/-DJANGO-7c64ba??style=for-the-badge&logo=django)
 <br>
-![JS](https://img.shields.io/badge/-JavaScript-090909??style=for-the-badge&logo=javascript)
+![JS](https://img.shields.io/badge/-JavaScript-7c64ba??style=for-the-badge&logo=javascript)
 <br>
-![Oracle](https://img.shields.io/badge/-ORACLE-090909??style=for-the-badge&logo=oracle)
+![Oracle](https://img.shields.io/badge/-ORACLE-7c64ba??style=for-the-badge&logo=oracle)
 <br>
-![Postgres](https://img.shields.io/badge/-POSTGRESS-090909?style=for-the-badge&logo=postgresql)
+![Postgres](https://img.shields.io/badge/-POSTGRESS-7c64ba?style=for-the-badge&logo=postgresql)
 <br>
-![JS](https://img.shields.io/badge/-HTML-090909??style=for-the-badge&logo=HyperTextMarkupLanguage)
-![css](https://img.shields.io/badge/-CSS-090909??style=for-the-badge&logo=CSS)
+![JS](https://img.shields.io/badge/-HTML-7c64ba??style=for-the-badge&logo=HyperTextMarkupLanguage)
+![css](https://img.shields.io/badge/-CSS-7c64ba??style=for-the-badge&logo=CSS)
 
 
 
