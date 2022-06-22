@@ -12,7 +12,10 @@
 <h1>𝔽𝕠𝕝𝕝𝕠𝕨 𝕄𝕖</h1>
 
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-7c64ba?style=for-the-badge&logo=instagram)](https://www.instagram.com/katsuro_khan/)
-
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-7c64ba?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abylaikhan-orazbek/)
+[![VK](https://img.shields.io/badge/-VKONTAKTE-7c64ba?style=for-the-badge&logo=vk)](https://vk.com/aorazbek2000)
+[![TWITTER](https://img.shields.io/badge/-TWITTER-7c64ba?style=for-the-badge&logo=twitter)](https://twitter.com/OrazbekAbylai)
+[![TELEGRAMM](https://img.shields.io/badge/-TELEGRAMM-7c64ba?style=for-the-badge&logo=telegram)](https://t.me/Katsuro_khan)
 
 
 
