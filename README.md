@@ -2,18 +2,20 @@
 <h1>𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤</h1>
 
 ![Python](https://img.shields.io/badge/-PYTHON-7c64ba??style=for-the-badge&logo=python)
-<br>
+
 ![Djnago](https://img.shields.io/badge/-DJANGO-7c64ba??style=for-the-badge&logo=django)
-<br>
+
 ![JS](https://img.shields.io/badge/-JavaScript-7c64ba??style=for-the-badge&logo=javascript)
-<br>
+
 ![Oracle](https://img.shields.io/badge/-ORACLE-7c64ba??style=for-the-badge&logo=oracle)
-<br>
+
 ![Postgres](https://img.shields.io/badge/-POSTGRESS-7c64ba?style=for-the-badge&logo=postgresql)
-<br>
+
 ![JS](https://img.shields.io/badge/-HTML-7c64ba??style=for-the-badge&logo=HyperTextMarkupLanguage)
 ![css](https://img.shields.io/badge/-CSS-7c64ba??style=for-the-badge&logo=CSS)
 
+<h1>𝔽𝕠𝕝𝕝𝕠𝕨 𝕄𝕖</h1>
+![Instagramm](https://img.shields.io/badge/-INSTAGRAM-7c64ba??style=for-the-badge&logo=instagram)
 
 
 <br>
