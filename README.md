@@ -9,6 +9,8 @@
 ![JS](https://img.shields.io/badge/-HTML-7c64ba??style=for-the-badge&logo=HyperTextMarkupLanguage)
 ![css](https://img.shields.io/badge/-CSS-7c64ba??style=for-the-badge&logo=CSS)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katsura-Khan)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1>𝔽𝕠𝕝𝕝𝕠𝕨 𝕄𝕖</h1>
 
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-7c64ba?style=for-the-badge&logo=instagram)](https://www.instagram.com/katsuro_khan/)
