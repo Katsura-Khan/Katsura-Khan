@@ -16,7 +16,7 @@
 
 <h1>𝔽𝕠𝕝𝕝𝕠𝕨 𝕄𝕖</h1>
 ![Instagram](https://img.shields.io/badge/-INSTAGRAM-7c64ba?style=for-the-badge&logo=instagram)
-
+![Python](https://img.shields.io/badge/-PYTHON-7c64ba??style=for-the-badge&logo=python)
 
 <br>
 <br>
