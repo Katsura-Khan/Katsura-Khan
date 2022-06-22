@@ -3,8 +3,10 @@
 
 ![Python](https://img.shields.io/badge/-Python-<COLOR>?style=for-the-badge&logo=python)
 ![Djnago](https://img.shields.io/badge/-Django-<COLOR>?style=for-the-badge&logo=django)
+<br>
 ![JS](https://img.shields.io/badge/-JavaScript-<COLOR>?style=for-the-badge&logo=javascript)
 ![Oracle](https://img.shields.io/badge/-Oracle-<COLOR>?style=for-the-badge&logo=oracle)
+<br>
 ![Postgres](https://img.shields.io/badge/-postgres-<COLOR>?style=for-the-badge&logo=postgresql)
 ![JS](https://img.shields.io/badge/-html-<COLOR>?style=for-the-badge&logo=HTML)
 ![css](https://img.shields.io/badge/-css-<COLOR>?style=for-the-badge&logo=CSS)
