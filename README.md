@@ -21,7 +21,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katsura-Khan)](https://github.com/anuraghazra/github-readme-stats)
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AbylaikhanN=dark)](https://github.com/Katsuro-Khan/leetcode-stats)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AbylaikhanN&theme=dark)](https://github.com/Katsuro-Khan/leetcode-stats)
 
 
 
