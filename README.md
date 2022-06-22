@@ -1,5 +1,6 @@
 ![](https://github.com/Katsura-Khan/Katsura-Khan/blob/main/header.png)
 
+![snake gif](https://github.com/Katsura-Khan/Katsura-Khan/blob/output/github-contribution-grid-snake.gif)
 
 
 
