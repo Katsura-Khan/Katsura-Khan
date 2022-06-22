@@ -1,7 +1,7 @@
 ![](https://github.com/Katsura-Khan/Katsura-Khan/blob/main/header.png)
 <h1>𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤</h1>
 
-![Python](https://img.shields.io/badge/<MESSAGE>-Python-<COLOR>)
+![Python](https://img.shields.io/badge/-Python-<COLOR>?style=for-the-badge&logo=appveyor)
 
 
 
