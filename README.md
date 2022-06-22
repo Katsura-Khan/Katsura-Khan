@@ -17,6 +17,9 @@
 [![TWITTER](https://img.shields.io/badge/-TWITTER-7c64ba?style=for-the-badge&logo=twitter)](https://twitter.com/OrazbekAbylai)
 [![TELEGRAMM](https://img.shields.io/badge/-TELEGRAMM-7c64ba?style=for-the-badge&logo=telegram)](https://t.me/Katsuro_khan)
 
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katsura-Khan)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
