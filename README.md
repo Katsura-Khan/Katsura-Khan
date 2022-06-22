@@ -5,7 +5,7 @@
 ![Djnago](https://img.shields.io/badge/-DJANGO-7c64ba??style=for-the-badge&logo=django)
 ![JS](https://img.shields.io/badge/-JavaScript-7c64ba??style=for-the-badge&logo=javascript)
 ![Oracle](https://img.shields.io/badge/-ORACLE-7c64ba??style=for-the-badge&logo=oracle)
-![Oracle](https://img.shields.io/badge/-POSTGRESSQL-7c64ba??style=for-the-badge&logo=postgressql)
+![Oracle](https://img.shields.io/badge/-POSTGRESQL-7c64ba??style=for-the-badge&logo=postgresql)
 ![JS](https://img.shields.io/badge/-HTML-7c64ba??style=for-the-badge&logo=HyperTextMarkupLanguage)
 ![css](https://img.shields.io/badge/-CSS-7c64ba??style=for-the-badge&logo=CSS)
 
