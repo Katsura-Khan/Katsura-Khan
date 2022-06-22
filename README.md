@@ -3,6 +3,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-<COLOR>?style=for-the-badge&logo=python)
 
+![Djnago](https://img.shields.io/badge/-Django-<COLOR>?style=for-the-badge&logo=django)
+
 
 
 
