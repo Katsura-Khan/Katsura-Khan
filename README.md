@@ -2,9 +2,8 @@
 <h1>𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤</h1>
 
 ![Python](https://img.shields.io/badge/-Python-<COLOR>?style=for-the-badge&logo=python)
-
 ![Djnago](https://img.shields.io/badge/-Django-<COLOR>?style=for-the-badge&logo=django)
-
+![JS](https://img.shields.io/badge/-JavaScript-<COLOR>?style=for-the-badge&logo=javascript)
 
 
 
