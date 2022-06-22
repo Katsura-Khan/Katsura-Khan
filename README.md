@@ -11,7 +11,7 @@
 
 <br>
 <br>
-![Top Langs][(https://github-readme-stats.vercel.app/api/top-langs/?username=Katsura-Khan)](https://github.com/anuraghazra/github-readme-stats)?style=for-the-badge&logo=appveyor
+![Top Langs][(https://github-readme-stats.vercel.app/api/top-langs/?username=Katsura-Khan)](https://github.com/anuraghazra/github-readme-stats)?style=for-the-badge&logo=python
 <br>
 <br>
 <br>
