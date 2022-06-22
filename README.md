@@ -7,7 +7,7 @@
 ![JS](https://img.shields.io/badge/-JavaScript-<COLOR>?style=for-the-badge&logo=javascript)
 ![Oracle](https://img.shields.io/badge/-Oracle-<COLOR>?style=for-the-badge&logo=oracle)
 <br>
-![Postgres](https://img.shields.io/badge/-postgres-<COLOR>?style=for-the-badge&logo=postgresql)
+![Postgres](https://img.shields.io/badge/-postgres-090909?style=for-the-badge&logo=postgresql)
 ![JS](https://img.shields.io/badge/-html-<COLOR>?style=for-the-badge&logo=HTML)
 ![css](https://img.shields.io/badge/-css-<COLOR>?style=for-the-badge&logo=CSS)
 
