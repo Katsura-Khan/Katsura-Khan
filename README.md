@@ -11,7 +11,7 @@
 <br>
 ![Postgres](https://img.shields.io/badge/-POSTGRESS-090909?style=for-the-badge&logo=postgresql)
 <br>
-![JS](https://img.shields.io/badge/-HTML-090909??style=for-the-badge&logo=HTML)
+![JS](https://img.shields.io/badge/-HTML-090909??style=for-the-badge&logo=HyperTextMarkupLanguage)
 <br>
 ![css](https://img.shields.io/badge/-CSS-090909??style=for-the-badge&logo=CSS)
 
