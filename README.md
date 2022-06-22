@@ -5,9 +5,9 @@
 ![Djnago](https://img.shields.io/badge/-Django-<COLOR>?style=for-the-badge&logo=django)
 ![JS](https://img.shields.io/badge/-JavaScript-<COLOR>?style=for-the-badge&logo=javascript)
 ![Oracle](https://img.shields.io/badge/-Oracle-<COLOR>?style=for-the-badge&logo=oracle)
-![Postgres](https://img.shields.io/badge/-postgres-<COLOR>?style=for-the-badge&logo=postgres)
-![JS](https://img.shields.io/badge/-html-<COLOR>?style=for-the-badge&logo=html)
-![css](https://img.shields.io/badge/-css-<COLOR>?style=for-the-badge&logo=css)
+![Postgres](https://img.shields.io/badge/-postgres-<COLOR>?style=for-the-badge&logo=postgresql)
+![JS](https://img.shields.io/badge/-html-<COLOR>?style=for-the-badge&logo=HTML)
+![css](https://img.shields.io/badge/-css-<COLOR>?style=for-the-badge&logo=CSS)
 
 
 
