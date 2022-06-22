@@ -1,15 +1,15 @@
 ![](https://github.com/Katsura-Khan/Katsura-Khan/blob/main/header.png)
 <h1>𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤</h1>
 
-![Python](https://img.shields.io/badge/-Python-090909??style=for-the-badge&logo=python)
-![Djnago](https://img.shields.io/badge/-Django-090909??style=for-the-badge&logo=django)
+![Python](https://img.shields.io/badge/-PYTHON-090909??style=for-the-badge&logo=python)
+![Djnago](https://img.shields.io/badge/-DJANGO-090909??style=for-the-badge&logo=django)
 <br>
 ![JS](https://img.shields.io/badge/-JavaScript-090909??style=for-the-badge&logo=javascript)
-![Oracle](https://img.shields.io/badge/-Oracle-090909??style=for-the-badge&logo=oracle)
+![Oracle](https://img.shields.io/badge/-ORACLE-090909??style=for-the-badge&logo=oracle)
 <br>
-![Postgres](https://img.shields.io/badge/-postgres-090909?style=for-the-badge&logo=postgresql)
-![JS](https://img.shields.io/badge/-html-090909??style=for-the-badge&logo=HTML)
-![css](https://img.shields.io/badge/-css-090909??style=for-the-badge&logo=CSS)
+![Postgres](https://img.shields.io/badge/-POSTGRESS-090909?style=for-the-badge&logo=postgresql)
+![JS](https://img.shields.io/badge/-HTML-090909??style=for-the-badge&logo=HTML)
+![css](https://img.shields.io/badge/-CSS-090909??style=for-the-badge&logo=CSS)
 
 
 
