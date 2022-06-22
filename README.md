@@ -18,12 +18,6 @@
 ![Instagram](https://img.shields.io/badge/-INSTAGRAM-7c64ba?style=for-the-badge&logo=instagram)
 ![Python](https://img.shields.io/badge/-PYTHON-7c64ba??style=for-the-badge&logo=python)
 
-<br>
-<br>
-![Top Langs][(https://github-readme-stats.vercel.app/api/top-langs/?username=Katsura-Khan)](https://github.com/anuraghazra/github-readme-stats)?style=for-the-badge&logo=python
-<br>
-<br>
-<br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Katsura-Khan&show_icons=true)  
+
 
 
