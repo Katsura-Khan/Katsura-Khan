@@ -25,7 +25,7 @@
 [![TELEGRAMM](https://img.shields.io/badge/-TELEGRAMM-7c64ba?style=for-the-badge&logo=telegram)](https://t.me/Katsuro_khan)
 
 
-
+<video scr="/home/katsuro_khan/Downloads/videoplayback.mp4"></video>
 
 
 <h1>𝕃𝕖𝕖𝕥ℂ𝕠𝕕𝕖</h1>
